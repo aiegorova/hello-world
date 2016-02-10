@@ -1,2 +1,4 @@
 # hello-world
-The first try to share the code
+
+Hey there!
+I'm just trying to learn Java.
